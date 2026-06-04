@@ -1,15 +1,13 @@
 {
-    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server
-  .schema.json",
-    "name": "io.github.agenticbihq/agenticbi-mcp-server",
-    "title": "AgenticBI",
-    "description": "Connect Claude, Cursor, or ChatGPT to your business data. 
-  Ask questions, get answers.",
-    "version": "1.0.0",
-    "remotes": [
-      {
-        "type": "streamable-http",
-        "url": "https://app.agenticbi.com/api/2.0/mcp"
-      }
-    ]
-  }
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.agenticbihq/agenticbi-mcp-server",
+  "title": "AgenticBI",
+  "description": "Connect Claude, Cursor, or ChatGPT to your business data. Ask questions, get answers.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.agenticbi.com/api/2.0/mcp"
+    }
+  ]
+}
