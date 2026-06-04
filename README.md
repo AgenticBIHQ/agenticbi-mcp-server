@@ -1,5 +1,9 @@
 # AgenticBI MCP Server
 
+## Demo   
+
+Watch AgenticBI in action: https://www.youtube.com/@TryAgenticBI
+
 | Field | Value |
 |---------|--------|
 | Product | AgenticBI MCP Server |
