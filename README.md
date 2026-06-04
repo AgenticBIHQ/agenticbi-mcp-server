@@ -371,3 +371,7 @@ On first use, your browser opens to AgenticBI login for authorization.
 | Contact |
 |----------|
 | support@agenticbi.com |
+
+ ## Directory Listings
+
+[![smithery badge](https://smithery.ai/badge/sanskriti-tqrg/agenticbi)](https://smithery.ai/servers/sanskriti-tqrg/agenticbi)
